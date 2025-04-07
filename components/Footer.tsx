@@ -25,14 +25,6 @@ const Footer = () => {
           >
             LinkedIn
           </a>
-          <a
-            href="https://twitter.com/arpitsharma"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:underline"
-          >
-            Twitter
-          </a>
         </div>
       </div>
     </footer>
